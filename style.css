@@ -1,0 +1,12 @@
+.container {
+  margin: 20px;
+  font-family: 'Sen', sans-serif;
+}
+
+a:hover {
+  color: lime;
+}
+
+a:visited {
+  color: green;
+}
